@@ -1,0 +1,28 @@
+
+.advisor__item-logo{
+	max-height: 93px;
+	background-color: #fff;
+	overflow: hidden;
+}
+.advisor__item-logo img{
+	float: left;
+	margin-top: 10px;
+	max-width: 43px;
+	margin-left: 15px;
+}
+.name-adviser-logo{
+	//float: left;
+	margin-top: 20px;
+	margin-left: 71px;
+	text-align: left;
+}
+.name-adviser-logo span{
+	text-transform: uppercase;
+	display: block;
+	font-size: 20px;
+	font-family: 'opensans-bolditalic', Arial, sans-serif;
+	color: #716E6F;
+}
+.name-adviser-logo span:last-child{
+	color: #A8241E;
+}
